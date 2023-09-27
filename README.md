@@ -1,2 +1,3 @@
-# GuviTaskDay-6
-Js-Basic
+# Day-6-Zen-Task
+
+Functions Recap Practice
